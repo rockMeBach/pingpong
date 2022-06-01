@@ -1,3 +1,3 @@
 # pingpong
 
-A pingpong game code entirely by JS canvas stuff.
+A pingpong game coded entirely with JS canvas stuff.
